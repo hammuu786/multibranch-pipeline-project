@@ -3,7 +3,7 @@ pipeline{
     stages {
         stage("Build") {
             steps {
-                echo "Hello World"
+                echo "Hello  ahammad World"
             }
         }
         stage("fix branch") {
